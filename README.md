@@ -49,11 +49,4 @@
 - 💡 Passionate about turning data into actionable insights.
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Roma2908/Roma2908/output/snake.svg" alt="Snake animation" />
-
-###
-
 ✨ *Feel free to explore my repositories and reach out to collaborate!* 🚀
